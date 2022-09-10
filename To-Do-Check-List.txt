@@ -1,4 +1,12 @@
 To-Do-Check List Modul Pengabdian GIT dan GITHUB:
 No	DESKRIPSI KERJA					STATUS		
-1. Progress sampai dengan GIT bagian GIT Merge		OK
-2. Menambah bahasan GIT Merge Conflict			OK
+1. Progress sampai dengan GIT bagian GIT Merge		Done
+2. Menambah bahasan GIT Merge Conflict			Done
+3. Tambah Bahasan GITHUB				Done
+	3.1. Penggunaan GITHUB				Done
+	3.2. Branching di GITHUB			Done
+	3.3. Forking dengan GITHUB			Done
+4. Remote GIT dengan GITHUB				Not Yet
+	4.1. Remote GIT ke GITHUB dan sebaliknya	Not Yet	
+	4.2. Multiple Remote				Not Yet
+	4.3. Rebase					Not Yet
